@@ -12,5 +12,5 @@ echo "Listas atualizadas!!!"
 read
 cls
 
-#desligando o servidor
+#reiniciar o servidor
 shutdown -r now

@@ -13,4 +13,4 @@ read
 cls
 
 #desligando o servidor
-shutdown -h now
+shutdown -r now

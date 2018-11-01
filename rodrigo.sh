@@ -3,10 +3,11 @@
 
 #atualização
 sudo apt update
+echo "atualização de pacotes e programas"
 read
 sudo apt upgrade
+echo "atualização de todo o sistema Baixa e instala"
 read
-echo "tudo atualizado"
 clear
 
 #baixando vim
